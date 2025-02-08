@@ -1,2 +1,2 @@
 ## CMPS 160
-<img src=model.png>
+![image](https://github.com/ImKole/cmps160/blob/master/Model.png)
